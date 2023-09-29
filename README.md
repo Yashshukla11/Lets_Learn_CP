@@ -21,13 +21,17 @@ Whether you want to practice for programming contests like ACM ICPC or simply wa
 
 ## Getting Started
 
-### Prerequisites
+If you're new to competitive programming or looking to practice on different coding platforms, you can find a variety of questions and solutions for various platforms in this repository. Click on the platform name to access the corresponding folder:
 
-Before you start using this repository, make sure you have the following:
+- [CodeChef](./problems/CodeChef)
+- [CodeForces](./problems/CodeForces)
+- [HackerRank](./problems/HackerRank)
+- [LeetCode](./problems/LeetCode)
 
-- A GitHub account (required for contributing).
-- Basic knowledge of programming languages like C++, Python, Java, etc.
-- Enthusiasm to learn and collaborate with the community.
+Each platform folder contains a collection of questions categorized by difficulty level (easy, medium, hard). You can explore the problems and solutions for each platform to enhance your skills and prepare for programming contests.
+
+
+
 
 ### Quick Start
 
