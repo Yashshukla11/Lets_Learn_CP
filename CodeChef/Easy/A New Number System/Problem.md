@@ -6,10 +6,7 @@ Determine whether there exists any N×N grid with exactly X good cells. The grid
 
 ### INPUT FORMATE
 
-First line will contain 
-�
-T, number of testcases. Then the testcases follow.
-The only line of each test case contains a two space separated integers N (1≤N≤5000) and X (1≤X≤N^2).
+First line will contain T, number of testcases. Then the testcases follow the only line of each test case contains a two space separated integers N (1≤N≤5000) and X (1≤X≤N^2).
 
 ### OUTPUT FORMATE
 
