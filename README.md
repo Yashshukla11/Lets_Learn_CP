@@ -19,12 +19,18 @@
 </br>
 </div>
 
+## 📌 Opensource Programs
+
+### This project is a part of following Open Source Programs
+
+<p align="center"><img alt="Logo"  src="https://i.postimg.cc/8cYBbyYp/hf10-banner-1032x600.png"></p>
+
 
 # Let's Learn Competitive Programming
 
 Welcome to the Let's Learn Competitive Programming repository! This repository is designed to help you improve your algorithmic and problem-solving skills through competitive programming practice. Whether you're a beginner or an experienced coder, you can find a variety of problems, solutions, and resources here to enhance your skills.
 
-## Table of Contents
+## 💻Table of Contents
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
