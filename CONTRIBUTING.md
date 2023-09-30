@@ -16,21 +16,23 @@ Before you start contributing, please take a moment to read and follow these gui
 Contributing to this repository is easy. You can contribute by adding new problems, solutions, or by improving existing content. Here are the general steps:
 
 1. **Fork the repository:** Click the "Fork" button at the top right corner of the repository to create your copy.
+![fork](https://i.postimg.cc/Y2Zn1MXf/image.jpg)
 
 2. **Clone your fork:** Clone your forked repository to your local machine using `git clone`.
+![clone](https://i.postimg.cc/wB58r3rp/image.jpg)
 
 3. **Make your contributions:**
    - For adding a new problem:
-     - Create a new directory with a descriptive name in the `problems` folder.
+     - Create a new directory with a descriptive name in the respective `platform` folder.
      - Add the problem statement, input, and expected output in that directory.
      - Optionally, include any additional context or explanation.
    - For adding a solution:
-     - Create a new directory with a descriptive name in the `solutions` folder.
      - Include your well-documented code with clear comments.
+
    
 4. **Commit your changes:** Use clear and concise commit messages. For example:
-   - "Add problem: Name of the problem"
-   - "Implement solution for Problem X in Python"
+   - `Add problem: Name of the problem`
+   - `Implement solution for Problem X in Python`
    
 5. **Push your changes:** Push your changes to your GitHub fork.
 
@@ -38,21 +40,10 @@ Contributing to this repository is easy. You can contribute by adding new proble
 
 7. **Review and collaborate:** Participate in discussions and address any feedback or questions related to your contribution.
 
-## Contributing to Problems
+## Example Directory
+![](https://i.postimg.cc/W4yWXVNv/image.png)
 
-If you're contributing a new problem, please follow these guidelines:
-
-- Create a new directory in the `problems` folder with a descriptive name.
-- Include the problem statement, input, and expected output in the directory.
-- Optionally, provide additional context, explanations, or hints.
-
-## Contributing to Solutions
-
-If you're contributing a solution to an existing problem, please follow these guidelines:
-
-- Create a new directory in the `solutions` folder with a descriptive name.
-- Include your well-documented code with clear comments.
-- Make sure your solution works correctly and efficiently.
+**[Sample Solution/Problem]()**
 
 ## Code of Conduct
 
