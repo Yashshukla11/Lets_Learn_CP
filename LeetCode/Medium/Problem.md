@@ -20,8 +20,8 @@ Output: false
 # Constraints
 
 m == matrix.length
-n == matrix[i].length
-1 <= n, m <= 300
+n == matrix[i].length 
+1 <= n, m <= 300 
 -109 <= matrix[i][j] <= 109
 All the integers in each row are sorted in ascending order.
 All the integers in each column are sorted in ascending order.
