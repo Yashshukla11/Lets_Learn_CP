@@ -1,12 +1,10 @@
+# Problem Statement
 
-**Title:** Remove All Adjacent Duplicates In String
-
-**Problem Statement:**
 You are given a string `s` consisting of lowercase English letters. The task is to perform a duplicate removal operation, which involves choosing two adjacent and equal letters and removing them from the string. This operation is repeated until it can no longer be performed.
 
 Return the final string after all such duplicate removals have been made. It can be proven that the answer is unique.
 
-**Examples:**
+# Examples
 
 **Example 1:**
 ```
@@ -22,7 +20,7 @@ Input: s = "azxxzy"
 Output: "ay"
 ```
 
-**Constraints:**
+# Constraints
 - 1 <= s.length <= 105
 - `s` consists of lowercase English letters.
 
