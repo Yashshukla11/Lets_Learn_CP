@@ -1,4 +1,4 @@
-## SOLUTION :
+## SOLUTION
 Here is the CPP code for the problem.
 
 ```cpp
