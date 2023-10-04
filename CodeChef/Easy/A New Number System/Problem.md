@@ -4,11 +4,11 @@ In a grid, a cell is said to be good if the value in the cell is maximum in its 
 
 Determine whether there exists any N×N grid with exactly X good cells. The grid can contain repeated elements. You have to answer T such queries.
 
-### INPUT FORMATE
+### INPUT FORMAT
 
 First line will contain T, number of testcases. Then the testcases follow the only line of each test case contains a two space separated integers N (1≤N≤5000) and X (1≤X≤N^2).
 
-### OUTPUT FORMATE
+### OUTPUT FORMAT
 
 For every test case if a grid with required conditions exists then print "Yes" otherwise print "No"(without quotes).
 

@@ -5,7 +5,7 @@ Example
 arr=[1,1,2,2,3]
 There are two each of types 1 and 2 , and one sighting of type 3 . Pick the lower of the two types seen twice: type 1.
 
-### INPUT FORMATE
+### INPUT FORMAT
 
 The first line contains an integer,n, the size of arr. The second line describes arr as n space-separated integers, each a type number of the bird sighted.
 
