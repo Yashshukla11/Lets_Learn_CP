@@ -5,11 +5,11 @@ Pick two cards, and swap them.
 
 Is it possible that the row becomes 𝚊𝚋𝚌 after the operation? Output "YES" if it is possible, and "NO" otherwise.
 
-### INPUT FORMATE
+### INPUT FORMAT
 
 The first line contains a single integer t (1 ≤ t ≤ 6) — the number of test cases. The only line of each test case contains a single string consisting of each of the three characters 𝚊 , 𝚋 , and 𝚌 exactly once, representing the cards.
 
-### OUTPUT FORMATE
+### OUTPUT FORMAT
 
 For each test case, output "YES" if you can make the row 𝚊𝚋𝚌 with at most one operation, or "NO" otherwise.
 
