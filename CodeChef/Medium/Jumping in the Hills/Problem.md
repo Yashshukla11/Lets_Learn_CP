@@ -29,7 +29,7 @@ For each test case, print a single line containing one integer — the index of 
 - 1 ≤ Hi ≤ 1,000,000 for each valid i
 
 ## Sample
-
+```
 Input:
 3
 5 3 2
@@ -38,11 +38,13 @@ Input:
 4 4 4 4 4
 5 2 7
 1 4 3 2 1
-
+```
 Output:
+```
 3
 5
 1
+```
 
 ## Explanation
 
