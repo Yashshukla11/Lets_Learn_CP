@@ -24,16 +24,16 @@ You may print each character of the string in uppercase or lowercase (for exampl
 - 1 ≤ X ≤ Y ≤ 200
 
 ### Sample
-```
 Input:
+```
 4
 1 2
 15 16
 15 17
 100 107
 ```
-```
 Output:
+```
 NO
 YES
 NO
